@@ -6,5 +6,6 @@
 <h1>Screenshots:</h1>
 
  <img src="/public/images/zora.png" />
+ <img src="/public/images/zora2.png" />
 
  <h1>Comments:</h1> <p>A javascript game in which a pixel Link seeks out ruto's letter because King Zora needs proof that Link isn't lying.</p>

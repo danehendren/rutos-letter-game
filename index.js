@@ -150,3 +150,5 @@ function draw() {
     let game = setInterval(draw, 100);
 
     // draw everything to canvas
+
+// app.listen(process.env.PORT || 8080);
